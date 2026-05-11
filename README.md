@@ -1,8 +1,8 @@
 # Hi, I'm Shravani C Mujumale👩‍💻
 
 🎓 Electronics & Telecommunication Engineer  
-💻 Aspiring Data Engineer   
-🚀 Interested in AI, IoT, Machine Learning & Web Development  
+💻 Aspiring Data Engineer | IoT & Machine Learning Enthusiast  
+🚀 Building real-world projects using Python, Raspberry Pi, Data Analytics & Web Technologies. 
 
 ## 🔧 Skills
 - Python, SQL
