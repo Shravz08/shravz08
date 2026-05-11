@@ -1,11 +1,11 @@
-# Hi, I'm Shravani 👩‍💻
+# Hi, I'm Shravani C Mujumale👩‍💻
 
 🎓 Electronics & Telecommunication Engineer  
 💻 Aspiring Data Engineer   
-🚀 Interested in AI, IoT & Web Development  
+🚀 Interested in AI, IoT, Machine Learning & Web Development  
 
 ## 🔧 Skills
-- Python,SQL
+- Python, SQL
 - HTML, CSS, JavaScript
 - Machine Learning (Basics)
 - Data Visualization (Power BI)
@@ -13,7 +13,8 @@
 
 ## 📌 Projects
 - Care Taker Bot (IoT + Web)
-- Teen Mental Health Analysis Dashboard 
+- Teen Mental Health Analysis Dashboard
+- Customer Churn Prediction
 - Clustering Analysis (K-Means, DBSCAN)
 
 ## 📈 Currently Learning
@@ -22,6 +23,7 @@
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/shravani-mujumale-06b757233/
+- Email: shravanimujumale@gmail.com
 <!--
 **Shravz08/shravz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
