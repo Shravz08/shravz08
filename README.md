@@ -1,5 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shravani 👩‍💻
 
+🎓 Electronics & Telecommunication Engineer  
+💻 Aspiring Data Engineer   
+🚀 Interested in AI, IoT & Web Development  
+
+## 🔧 Skills
+- Python,SQL
+- HTML, CSS, JavaScript
+- Machine Learning (Basics)
+- Data Visualization (Power BI)
+- Embedded Systems (Raspberry Pi)
+
+## 📌 Projects
+- Care Taker Bot (IoT + Web)
+- Teen Mental Health Analysis Dashboard 
+- Clustering Analysis (K-Means, DBSCAN)
+
+## 📈 Currently Learning
+- Python
+- Machine Learning Algorithms 
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/shravani-mujumale-06b757233/
 <!--
 **Shravz08/shravz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
