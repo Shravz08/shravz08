@@ -6,7 +6,7 @@
 
 ## 🔧 Skills
 - Python, SQL
-- HTML, CSS, JavaScript
+- HTML, CSS
 - Machine Learning (Basics)
 - Data Visualization (Power BI)
 - Embedded Systems (Raspberry Pi)
